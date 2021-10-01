@@ -1,2 +1,2 @@
 # Dog-Image-Classifier
-Udacity Nanodegree
+Udacity Nanodegree Dog Image Classifier
